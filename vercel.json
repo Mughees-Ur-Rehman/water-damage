@@ -1,0 +1,81 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/flood-damage-restoration.html",
+      "destination": "/flood-damage-restoration",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/water-damage-downtown-tampa.html",
+      "destination": "/water-damage-downtown-tampa",
+      "permanent": true
+    },
+    {
+      "source": "/water-damage-restoration.html",
+      "destination": "/water-damage-restoration",
+      "permanent": true
+    },
+    {
+      "source": "/water-damage-south-tampa.html",
+      "destination": "/water-damage-south-tampa",
+      "permanent": true
+    },
+    {
+      "source": "/water-damage-tampa.html",
+      "destination": "/water-damage-tampa",
+      "permanent": true
+    },
+    {
+      "source": "/water-damage-zionsville",
+      "destination": "/water-damage-tampa",
+      "permanent": true
+    },
+    {
+      "source": "/water-damage-downtown-zionsville",
+      "destination": "/water-damage-downtown-tampa",
+      "permanent": true
+    },
+    {
+      "source": "/water-damage-village-of-zionsville",
+      "destination": "/water-damage-south-tampa",
+      "permanent": true
+    }
+  ]
+}
