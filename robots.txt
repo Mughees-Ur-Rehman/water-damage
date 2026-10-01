@@ -1,5 +1,5 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://tampa-basement-flood-cleanup.com/sitemap.xml
+Sitemap: https://water-damage-gi7p.vercel.app/sitemap.xml
